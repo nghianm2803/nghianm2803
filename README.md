@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning ReactJS, Typescript, NodeJS, MongoDB.
 - 👯 I’m looking to collaborate on Web Dev stuff.
-- 🤔 I’m looking for help in learning about Web Dev and JavaScript.
+- 🤔 I’m looking for help in learning about Web Dev and NodeJS.
 - 💬 Ask me about anything.
 - 📫 How to reach me:  &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:nghianm2803@gmail.com)
 - ⚡ Fun fact: I'm a movie nerd.
