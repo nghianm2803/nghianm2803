@@ -1,8 +1,9 @@
 ### Hi there 👋 
 
 #### I'm Nghia. I try to write code 💻 and solve problems .
+#### On my way to become a fullstack developer.
 
-### Skills: ReactJS, Javascript, Typescript .
+### Skills: ReactJS, Javascript, Typescript, NodeJS, MongoDB.
 
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning ReactJS, Typescript, NodeJS, MongoDB.
