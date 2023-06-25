@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **Web Dev**
 
-- 💬 Ask me about **anything**
-
 - 📫 How to reach me **nghianm2803@gmail.com**
 
 - ⚡ Fun fact **I'm a movie nerd**
