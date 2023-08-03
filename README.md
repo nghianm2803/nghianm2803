@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **NodeJS, ExpressJS, Mongo DB**
+- 🌱 I’m currently learning **NodeJS, Express and Mongo DB**
 
 - 👯 I’m looking to collaborate on **Web Dev stuff**
 
