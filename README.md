@@ -5,7 +5,7 @@
   />
 </h1>
 
-<h3 align="center">I try to write code 💻 and solve problems. On my way to becoming a fullstack developer.</h3>
+<h3 align="center">I'm a Web Developer who is eager to learn, coding as a hobby.</h3>
 
 <p align="left">
   <img
