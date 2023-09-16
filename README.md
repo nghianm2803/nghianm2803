@@ -15,18 +15,14 @@
 </p>
 
 - 🔭 I’m currently working on **Web Development** 
-- 🌱 I’m currently learning **NodeJS, ExpressJS, Mongo DB** 
-- 👯 I’m
-looking to collaborate on **Web Dev stuff** 
-- 🤝 I’m looking for help with **Web Dev** 
+- 🌱 I’m currently learning **NextJS, NodeJS, ExpressJS, Mongo DB** 
 - 📜 Portfolio link:
 <a href="https://nghianm-portfolio.netlify.app/" target="blank">nghianm-portfolio</a>
 
 - 📫 How to reach me **nghianm2803@gmail.com** 
 - 📄 Know about my experiences
-<a href="https://nghianm-portfolio.netlify.app/static/media/CV.b707c983ddc0dc93fd5b.pdf" target="blank">here</a>
+<a href="https://nghianm-portfolio.netlify.app/static/media/CV.b707c983ddc0dc93fd5b.pdf" target="blank"> resume here</a>
 
-- ⚡ Fun fact **I'm a movie nerd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -147,14 +143,6 @@ looking to collaborate on **Web Dev stuff**
       height="40"
     />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -183,26 +171,10 @@ looking to collaborate on **Web Dev stuff**
       height="40"
     />
   </a>
-  <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original-wordmark.svg"
-      alt="kaggle"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://babeljs.io" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg"
       alt="babel"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
-      alt="npm"
       width="40"
       height="40"
     />
