@@ -1,8 +1,5 @@
 <h1 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=93E9BE&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nghia"
-    alt="Typing SVG"
-  />
+  Hi 👋, I'm Nghia
 </h1>
 
 <h3 align="center">I'm a Web Developer who is eager to learn, coding as a hobby.</h3>
