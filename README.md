@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on **Web Development** 
 - 🌱 I’m currently learning **NextJS, NodeJS, ExpressJS, Mongo DB** 
 - 📜 Portfolio link:
-<a href="https://nghianm-portfolio.netlify.app/" target="blank">nghianm-portfolio</a>
+<a href="https://nghianm2803.github.io/portfolio/" target="blank">nghianm-portfolio</a>
 
 - 📫 How to reach me **nghianm2803@gmail.com** 
 - 📄 Know about my experiences
