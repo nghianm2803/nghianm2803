@@ -12,7 +12,6 @@
 </p>
 
 - 🔭 I’m currently working on **Web Development** 
-- 🌱 I’m currently learning **NextJS, NodeJS, ExpressJS, Mongo DB** 
 - 📜 Portfolio link:
 <a href="https://nghianm2803.github.io/portfolio/" target="blank">nghianm-portfolio</a>
 
@@ -43,6 +42,14 @@
       width="40"
       height="40"
     />
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+     <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg"
+      alt="vuejs"
+      width="40"
+      height="40"
+       />
   </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img
