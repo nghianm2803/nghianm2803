@@ -2,7 +2,7 @@
   Hi 👋, I'm Nghia
 </h1>
 
-<h3 align="center">I'm a Web Developer who is eager to learn, coding as a hobby.</h3>
+<h3 align="center">I'm a Mobile Developer who is eager to learn, coding as a hobby.</h3>
 
 <p align="left">
   <img
@@ -11,7 +11,7 @@
   />
 </p>
 
-- 🔭 I’m currently working on **Web Development** 
+- 🔭 I’m currently working on **Mobile Development** 
 - 📜 Portfolio 
 <a href="https://nghianm2803.github.io/portfolio/" target="blank">nghianm-portfolio</a>
 
@@ -24,38 +24,6 @@
 </p>
 <h3 align="left">Languages:</h3>
 <p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-      alt="github"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
    <a href="https://dart.dev/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"
@@ -68,6 +36,22 @@
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
       alt="flutter"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
       width="40"
       height="40"
     />
@@ -120,28 +104,6 @@
       height="40"
     />
   </a>
-  <a href="https://ant.design/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg"
-      alt="antdesign"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://mui.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"
-      alt="materialui"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-      alt="tailwindcss"
-      width="40"
-      height="40"
-    />
-  </a>
 </p>
 
 <h3 align="left">Tools:</h3>
@@ -159,7 +121,7 @@
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"  
-      alt="babel"
+      alt="firebase"
       width="40"
       height="40"
     />
