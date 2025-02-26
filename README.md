@@ -2,7 +2,7 @@
   Hi 👋, I'm Nghia
 </h1>
 
-<h3 align="center">I'm a Mobile Developer who is eager to learn, coding as a hobby.</h3>
+<h3 align="center">I'm a Developer who is eager to learn, coding as a hobby.</h3>
 
 <p align="left">
   <img
@@ -11,7 +11,7 @@
   />
 </p>
 
-- 🔭 I’m currently working on **Mobile Development** 
+- 🔭 I’m currently working on **Web/Mobile Development** 
 - 📜 Portfolio 
 <a href="https://nghianm2803.github.io/portfolio/" target="blank">nghianm-portfolio</a>
 
