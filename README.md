@@ -11,7 +11,7 @@
   />
 </p>
 
-- 🔭 I’m currently working on **Web/Mobile Development** 
+- 🔭 I’m currently working on **<a href="https://flickprint.com" target="blank">Flickprint</a>** 
 - 📜 Portfolio 
 <a href="https://nghianm2803.github.io/portfolio/" target="blank">nghianm-portfolio</a>
 
