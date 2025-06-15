@@ -11,20 +11,20 @@
   />
 </p>
 
-- 🔭 I’m currently working on **<a href="https://flickprint.com" target="blank">Flickprint</a>** 
+- 🔭 I’m currently working on **<a href="https://flickprint.com" target="_blank" rel="noopener noreferrer">Flickprint</a>** 
 - 📜 Portfolio 
-<a href="https://nghianm2803.github.io/portfolio/" target="blank">nghianm-portfolio</a>
+<a href="https://nghianm2803.github.io/portfolio/" target="_blank" rel="noopener noreferrer">nghianm-portfolio</a>
 
 - 📫 Reach me **nghianm2803@gmail.com** 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nghianm2803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nghianm2803" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nghianm2803" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nghianm2803" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages:</h3>
 <p align="left">
-   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+   <a href="https://dart.dev/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"
       alt="dart"
@@ -32,7 +32,7 @@
       height="40"
     />
   </a>
-   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+   <a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
       alt="flutter"
@@ -40,7 +40,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
@@ -48,7 +48,7 @@
       height="40"
     />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
@@ -56,7 +56,7 @@
       height="40"
     />
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
       alt="nextjs"
@@ -64,7 +64,7 @@
       height="40"
     />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
@@ -72,7 +72,7 @@
       height="40"
     />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="" target="_blank" rel="noopener noreferrer">
      <img 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg"
       alt="vuejs"
@@ -80,7 +80,7 @@
       height="40"
        />
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
@@ -88,7 +88,7 @@
       height="40"
     />
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  <a href="https://expressjs.com" target="_blank" rel="noopener noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
       alt="express"
@@ -96,7 +96,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
@@ -108,10 +108,10 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
+  <a href="https://postman.com" target="_blank" rel="noopener noreferrer">
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
   </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener noreferrer">
    <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg"
       alt="jira"
@@ -119,14 +119,14 @@
       height="40"
    />
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"  
       alt="firebase"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"
+  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"
     ><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"
       alt="figma"
@@ -134,7 +134,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noopener noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
       alt="photoshop"
